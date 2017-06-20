@@ -1,0 +1,19 @@
+{
+  "name": "cf-common-components",
+  "version": "0.0.1",
+  "description": "Common (shared) components library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/photusenigma/lerna-multi-repo-lib-common-components.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/photusenigma/lerna-multi-repo-lib-common-components/issues"
+  },
+  "homepage": "https://github.com/photusenigma/lerna-multi-repo-lib-common-components#readme"
+}
